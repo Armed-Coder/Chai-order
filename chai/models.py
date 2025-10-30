@@ -20,4 +20,5 @@ class chai_variety(models.Model):
     
     
     def __str__(self):
+
         return self.name
